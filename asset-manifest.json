@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/age-calculator/static/css/main.ab1eeb0e.css",
+    "main.js": "/age-calculator/static/js/main.70e026ac.js",
+    "static/js/787.1715cc32.chunk.js": "/age-calculator/static/js/787.1715cc32.chunk.js",
+    "static/media/Poppins-Italic.ttf": "/age-calculator/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
+    "static/media/Poppins-ExtraBoldItalic.ttf": "/age-calculator/static/media/Poppins-ExtraBoldItalic.73d4495be63ad83b25cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/age-calculator/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/age-calculator/index.html",
+    "static/media/icon-arrow.svg": "/age-calculator/static/media/icon-arrow.76e952b1b427b84b83bd01f2f4822499.svg",
+    "main.ab1eeb0e.css.map": "/age-calculator/static/css/main.ab1eeb0e.css.map",
+    "main.70e026ac.js.map": "/age-calculator/static/js/main.70e026ac.js.map",
+    "787.1715cc32.chunk.js.map": "/age-calculator/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1eeb0e.css",
+    "static/js/main.70e026ac.js"
+  ]
+}
